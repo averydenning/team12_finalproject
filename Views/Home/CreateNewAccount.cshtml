@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "CreateNewAccount";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/styles.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <div class="container">
+        <h3>Create a New Account</h3>
+        <h4>Choose New Account Type</h4>
+        <a asp-action="Create" asp-controller="StandardAccount" class="btn btn-success">Checking Account</a>
+        <a asp-action="Create" asp-controller="StandardAccount" class="btn btn-success">Savings Account</a>
+        @*<a asp-action="Register" asp-controller="Account" class="btn btn-success">IRA Account</a>
+        <a asp-action="Login" asp-controller="Account" class="btn btn-success">Stock Account</a>*@
+
+
+    </div>
+
+</body>
+</html>
