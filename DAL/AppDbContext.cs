@@ -16,7 +16,7 @@ namespace Final_Project_Team12.DAL
 
         //TODO: Add Dbsets here.  Remember, IdentityDbContext provides a DbSet for AppUsers 
         //This DbSet is called Users
-        public DbSet<StandardAccount> BankAccounts { get; set; }
+        public DbSet<BankAccount> BankAccounts { get; set; }
       
     }
 }
