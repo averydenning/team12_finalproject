@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/averydenning/Documents/UT/MIS333K/Final Project/project_upload_attempt/FinalProject_team12.csproj": {}
+    "/Users/averydenning/Documents/UT/MIS333K/Final Project/team12_finalproject/FinalProject_team12.csproj": {}
   },
   "projects": {
-    "/Users/averydenning/Documents/UT/MIS333K/Final Project/project_upload_attempt/FinalProject_team12.csproj": {
+    "/Users/averydenning/Documents/UT/MIS333K/Final Project/team12_finalproject/FinalProject_team12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/averydenning/Documents/UT/MIS333K/Final Project/project_upload_attempt/FinalProject_team12.csproj",
+        "projectUniqueName": "/Users/averydenning/Documents/UT/MIS333K/Final Project/team12_finalproject/FinalProject_team12.csproj",
         "projectName": "FinalProject_team12",
-        "projectPath": "/Users/averydenning/Documents/UT/MIS333K/Final Project/project_upload_attempt/FinalProject_team12.csproj",
+        "projectPath": "/Users/averydenning/Documents/UT/MIS333K/Final Project/team12_finalproject/FinalProject_team12.csproj",
         "packagesPath": "/Users/averydenning/.nuget/packages/",
-        "outputPath": "/Users/averydenning/Documents/UT/MIS333K/Final Project/project_upload_attempt/obj/",
+        "outputPath": "/Users/averydenning/Documents/UT/MIS333K/Final Project/team12_finalproject/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

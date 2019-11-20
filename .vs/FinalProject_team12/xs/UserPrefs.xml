@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7DFB962E-7EFC-426F-990A-AAF24B38B9A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/AppDbContext.cs">
+    <Files>
+      <File FileName="Models/BankAccount.cs" Line="62" Column="42" />
+      <File FileName="Models/Transaction.cs" Line="30" Column="49" />
+      <File FileName="Models/IRAAccount.cs" Line="7" Column="2" />
+      <File FileName="Models/Payee.cs" Line="47" Column="13" />
+      <File FileName="Models/AppUser.cs" Line="19" Column="11" />
+      <File FileName="Models/ViewModels/AccountViewModels.cs" Line="64" Column="29" />
+      <File FileName="DAL/AppDbContext.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject_team12" expanded="True">
+            <Node name="FinalProject_team12" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Seeding" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FinalProject__team12 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
