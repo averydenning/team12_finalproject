@@ -13,5 +13,10 @@ namespace Final_Project_Team12.Controllers
             return View();
         }
 
+        public IActionResult CreateNewAccount()
+        {
+            return View("CreateNewAccount");
+        }
+
     }
 }
